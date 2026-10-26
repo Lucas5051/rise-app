@@ -1,0 +1,34 @@
+PASS Sauvegarde brute avant migration
+PASS Séance de tests du 12/10 marquée réalisée
+PASS Développé militaire 22 kg × 8 ajouté
+PASS Ancien statut fatigue → Non réalisée (raison fatigue)
+PASS 1RM estimés conservés (squat ≈100,6, DC ≈74,1)
+PASS Contexte sportif rattaché au profil de Lucas
+PASS Aucune mention ACLF à l'accueil
+PASS Aucun popup de badge à l'ouverture
+PASS Badge gagné en arrière-plan signalé sur l'accueil
+PASS Compte athlète : espace coach refusé
+PASS 4 onglets, actif = icône + libellé
+PASS Mouvement réduit : validation sans confettis
+PASS Séance non terminée : question à l'ouverture
+PASS Durée inconnue → « Durée à confirmer », aucune durée inventée
+PASS Aucune durée enregistrée automatiquement
+  champs correction: cdNew,cdWhy
+PASS Correction coach : historique (ancienne/nouvelle valeur, auteur, raison) [{"old":null,"nw":55,"at":"2026-10-22T16:00:00.000Z","by":"coach (Lucas Besnard)","reason":"Durée confirmée par message","notified":true}]
+PASS Code au format XXXX-XXXX sans caractères ambigus
+PASS 5 essais ratés : saisie bloquée 15 min
+PASS Code valide accepté
+PASS Code révoqué refusé (message neutre)
+PASS Code saisi en minuscules sans tiret : identité affichée
+PASS Compte créé, rattaché au coach, arrivée directe (sans questionnaire ni offres)
+PASS Nouveau client : aucune donnée de Lucas par défaut
+PASS Code à usage unique
+PASS Mot de passe jamais stocké
+PASS Données de Lucas intactes après création d'un autre compte
+PASS Brouillon d'inscription repris après rechargement
+PASS Reprise à la bonne question avec les réponses
+PASS Champ « Autre » absent tant que non choisi
+PASS Champ « Autre » affiché quand choisi
+ERREURS JS: aucune
+
+30 réussis, 0 échoués

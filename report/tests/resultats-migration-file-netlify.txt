@@ -1,0 +1,18 @@
+PASS Nouvelle adresse : aucune donnée v9 lisible sur cet appareil
+PASS Paramètres coach › Compte : import du fichier v9 proposé
+PASS Fichier étranger refusé
+PASS Fichier reconnu : séance de tests du 12/10 réalisée détectée
+PASS Sauvegarde toujours obligatoire avant l'import
+PASS Rapport : Profil rattaché au programme historique « lucas-2026 »
+PASS Rapport : Tests : 1/1 séance(s) de tests retrouvées
+PASS Rapport : Résultats du 12/10 identiques (squat, développé couché, soulevé de terre, CMJ, tractions, poids)
+PASS Rapport : Séance de tests du 12/10 : réalisée
+PASS Rapport : Statuts : 3/3
+PASS Rapport : Durées et RPE : 2/2 séance(s)
+PASS Rapport : Déplacements : 1/1
+PASS Rapport : Questionnaires de ressenti : 2/2
+PASS Rapport : Autres activités et séances club conservées
+PASS Rapport : Programme historique attribué et actif
+ERREURS JS: aucune
+
+15 réussis, 0 échoués

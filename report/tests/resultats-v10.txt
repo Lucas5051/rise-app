@@ -1,0 +1,42 @@
+PASS Espace coach : 6 rubriques principales
+PASS Communication : messages, groupe, invitations, demandes d'appel
+PASS Paramètres coach : 7 sous-rubriques
+PASS Test personnalisé créé (unité, répétitions, formule Epley)
+PASS Règle « réduction du volume » désactivée par le coach
+PASS Éditeur de séance en 4 étapes
+PASS Étape 2 : échauffement
+PASS Recherche dans la bibliothèque
+PASS Exercices ajoutés depuis la bibliothèque
+PASS Exercice dupliqué
+PASS Annuler : dernière modification annulée
+PASS Brouillon enregistré automatiquement et repris
+PASS Vérification : durée annoncée incohérente signalée
+PASS Vérification : tests nécessaires indiqués
+PASS Aperçu athlète avec les charges prescrites
+PASS Séance dupliquée
+PASS Vérification : deux séances lourdes trop proches signalées (avec source)
+PASS Attribution : matériel, douleurs, disponibilités et matchs du questionnaire contrôlés
+PASS Attribution : tests manquants signalés
+PASS Charge fixe affichée : 60 kg
+PASS Test absent : aucune charge inventée (« Test requis »)
+PASS 80 % du 1RM estimé (100 kg × 3 → 105,9 kg) arrondi à 2,5 kg = 85 kg, formule affichée
+PASS Séance réalisée : charge historique conservée (85 kg)
+PASS Nouveau test : charges futures recalculées (92,5 kg)
+PASS Test personnalisé sans résultat : « Test requis »
+PASS Adaptation interdite jamais proposée : repli sur une option autorisée plus prudente
+PASS Aucune option autorisée : l'athlète est invité à contacter son coach
+PASS Douleur sans zone : la zone est demandée, aucune séance « haut du corps » automatique
+PASS Douleur à l'épaule : retrait ciblé du développé couché, squat conservé
+PASS Douleur importante (8/10) : repos et avis d'un professionnel
+PASS Aucun diagnostic affiché
+PASS Formule « Programmes » : pas de messagerie ni de calcul des charges
+PASS Formule « Programmes » : charge au ressenti (calcul verrouillé)
+PASS Formule sans adaptations automatiques : renvoi au coach
+PASS Formule « Coaching » : messagerie disponible
+PASS Formulaire douleur : zone obligatoire
+PASS Douleur enregistrée : zone, intensité, apparition, déclencheur, repos
+PASS Proposition conservatrice expliquée dans la séance
+PASS Mobile : navigation coach compacte, sans défilement horizontal, cibles ≥ 44 px
+ERREURS JS: aucune
+
+39 réussis, 0 échoués

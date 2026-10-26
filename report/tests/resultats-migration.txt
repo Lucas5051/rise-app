@@ -1,0 +1,22 @@
+PASS Données v9 détectées à la connexion du coach
+PASS Import bloqué tant que la sauvegarde JSON n'est pas téléchargée
+PASS Sauvegarde JSON complète téléchargée (sans jeton de session)
+PASS Rapport : Profil rattaché au programme historique « lucas-2026 »
+PASS Rapport : Tests : 1/1 séance(s) de tests retrouvées
+PASS Rapport : Résultats du 12/10 identiques (squat, développé couché, soulevé de terre, CMJ, tractions, poids)
+PASS Rapport : Séance de tests du 12/10 : réalisée
+PASS Rapport : Statuts : 3/3
+PASS Rapport : Durées et RPE : 2/2 séance(s)
+PASS Rapport : Déplacements : 1/1
+PASS Rapport : Questionnaires de ressenti : 2/2
+PASS Rapport : Autres activités et séances club conservées
+PASS Rapport : Programme historique attribué et actif
+PASS Import relancé : aucun doublon {"t":7,"l":4,"w":2,"o":1}
+PASS Espace coach : accès « Mon entraînement »
+PASS Mon entraînement : planification historique, tests du 12/10 réalisés
+PASS 1RM estimés identiques (squat ≈ 100,6 kg, Brzycki)
+PASS Autre appareil : statuts, RPE, déplacement, questionnaires et tests restaurés depuis le serveur
+PASS Données de Lucas rattachées à son seul profil
+ERREURS JS: aucune
+
+19 réussis, 0 échoués

@@ -1,0 +1,50 @@
+PASS Mode production (serveur) actif
+PASS Coach connecté : rôle lu sur le serveur
+PASS Chargement complet de l'espace coach en moins de 3 s (1829 ms)
+PASS Programme envoyé au serveur (file vide)
+PASS Programme présent en base (tables normalisées)
+PASS Média envoyé dans le stockage privé (droits renseignés)
+PASS Format non autorisé refusé
+PASS Média d'une fiche en brouillon envoyé
+PASS Code généré par le serveur : 7H••-••••
+PASS Liste des codes : code masqué (empreinte seulement)
+PASS Appareil athlète vierge (aucune donnée du coach en local)
+PASS Code reconnu sur un autre appareil : identité, programme et formule préparés
+PASS Adresse préparée par le coach préremplie
+PASS Mot de passe trop court refusé
+PASS Consentement données de santé obligatoire
+PASS Compte athlète créé par le serveur (rôle athlète)
+PASS Programme attribué et calendrier visible immédiatement {"tab":"home","role":"athlete","last":"Test-Martin","asg":true,"n":1,"today":true,"coach":false}
+PASS Correction de l'athlète enregistrée sur le serveur
+PASS Formule « Programme personnalisé » : pas de messagerie affichée
+PASS Droits fournis par le serveur (charges oui, messagerie non)
+PASS Client : média du coach lu par URL signée temporaire
+PASS Client : média d'une fiche en brouillon illisible
+PASS Client : écriture dans les médias du coach refusée
+PASS Séance réalisée : 52 min, RPE 7
+PASS Séance envoyée au serveur
+PASS Hors ligne : modification placée dans la file persistante (IndexedDB)
+PASS Indicateur : « Hors ligne · … en attente »
+PASS Réouverture avec réseau : file envoyée automatiquement
+PASS Aucune perte : questionnaire saisi hors ligne conservé
+PASS Client : changement de rôle refusé par le serveur
+PASS Client : données coach refusées par le serveur
+PASS Valeur locale modifiée : aucun accès à l'espace coach
+PASS Client : programme non modifiable
+PASS Client : ne lit que ses propres séances
+PASS Formule sans messagerie : envoi refusé côté serveur
+PASS Aucun secret dans le code client
+PASS Code déjà utilisé : refusé (message générique)
+PASS Coach : nouveau client visible après synchronisation
+PASS Coach : durée réelle synchronisée (52 min)
+PASS Coach : statut et RPE synchronisés
+PASS Coach : questionnaire saisi hors ligne reçu
+PASS Aucun doublon en base (1 séance, 1 questionnaire)
+PASS Export serveur complet, sans secret
+PASS Suppression : le client disparaît chez le coach
+PASS Suppression : profil supprimé en base
+PASS Suppression : modèle du coach intact
+PASS Suppression réelle du fichier média
+ERREURS JS: aucune
+
+47 réussis, 0 échoués

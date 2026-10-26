@@ -1,0 +1,19 @@
+# USCI Muscu v10 — site statique (aucune étape de build, aucune variable secrète).
+[build]
+  publish = "."
+  command = ""
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=(), payment=()"
+    Strict-Transport-Security = "max-age=31536000"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://oabmnqyymksswnnwglrq.supabase.co; media-src 'self' blob: https://oabmnqyymksswnnwglrq.supabase.co; connect-src 'self' https://oabmnqyymksswnnwglrq.supabase.co wss://oabmnqyymksswnnwglrq.supabase.co; frame-ancestors 'none'; base-uri 'self'; form-action 'self'"
+
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "no-cache"

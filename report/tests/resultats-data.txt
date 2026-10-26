@@ -1,0 +1,29 @@
+PASS Programme historique enregistré et attribué à Lucas
+PASS Calendrier, statuts, RPE et questionnaires conservés
+PASS Tests et réglages de Lucas conservés, séance du 12/10 réalisée
+PASS Migration v4 journalisée
+PASS Tuile « Régularité » → Suivi › progres (onglet, sous-onglet, focus, barre)
+PASS Tuile « Moy. 7 j » → Suivi › progres (onglet, sous-onglet, focus, barre)
+PASS Tuile « Prochain badge » → Suivi › badges (onglet, sous-onglet, focus, barre)
+PASS Tuile « Ressenti » vide → questionnaire
+PASS Aucun data-tab / data-goto vers une destination inexistante 
+PASS Clavier : onglet activé avec Entrée, focus sur le titre
+PASS Clavier : jour du calendrier sélectionnable
+PASS Lecteur : arrière-plan inerte, titre annoncé
+PASS Lecteur : focus bloqué (Tab)
+PASS Fiche imbriquée : focus dans la fiche, lecteur inerte
+PASS Échap : fiche fermée, focus rendu au bouton d'origine
+PASS Échap sur le lecteur : séance réduite, pas arrêtée
+PASS Carte « Séance en cours » disponible
+PASS Reprise de la séance
+PASS Export : toutes les rubriques, date et version
+PASS Export : ni mot de passe ni jeton
+PASS Export CSV des séances
+PASS Suppression refusée sans confirmation écrite
+PASS Suppression complète : compte, données, messages privés, appels, journal
+PASS Messages de groupe anonymisés, médias retirés
+PASS Données des autres clients et de Lucas conservées
+PASS Retour à l'accueil de connexion
+ERREURS JS: aucune
+
+26 réussis, 0 échoués

@@ -1,0 +1,11 @@
+PASS 375 accueil : aucun bouton sous le badge []
+PASS 375 coach : navigation libre []
+PASS 375 athlète : barre d'onglets libre []
+PASS 390 accueil : aucun bouton sous le badge []
+PASS 390 coach : navigation libre []
+PASS 390 athlète : barre d'onglets libre []
+PASS 430 accueil : aucun bouton sous le badge []
+PASS 430 coach : navigation libre []
+PASS 430 athlète : barre d'onglets libre []
+
+9 réussis, 0 échoués

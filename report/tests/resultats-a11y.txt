@@ -1,0 +1,22 @@
+390 accueil 0 violation
+390 calendrier 0 violation
+390 entrainement 0 violation
+390 suivi 0 violation
+390 lecteur 0 violation
+390 coach_tableau 0 violation
+390 coach_programmes 0 violation
+390 coach_editeur 0 violation
+390 coach_invitations 0 violation
+390 inscription 0 violation
+1280 accueil 0 violation
+1280 calendrier 0 violation
+1280 entrainement 0 violation
+1280 suivi 0 violation
+1280 lecteur 0 violation
+1280 coach_tableau 0 violation
+1280 coach_programmes 0 violation
+1280 coach_editeur 0 violation
+1280 coach_invitations 0 violation
+1280 inscription 0 violation
+
+TOTAL noeuds en violation : 0

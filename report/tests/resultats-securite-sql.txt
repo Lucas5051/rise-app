@@ -1,0 +1,6 @@
+Tests de sécurité et d'isolation SQL (server/tests/security_tests.sql)
+Exécutés le 24/10/2026 sur le serveur de PRODUCTION (projet usci-muscu), dans une transaction annulée
+(aucune donnée de test ne reste), après application des migrations 001 → 009.
+
+reussis : 58
+echoues : 0

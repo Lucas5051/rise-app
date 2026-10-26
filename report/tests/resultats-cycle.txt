@@ -1,0 +1,44 @@
+   Estimation : 32 min (échauffement + exercices, repos et transitions + retour au calme).
+PASS Programme créé : blocs, semaines dupliquées, séances, exercices {"id":"prog-mvmcwbv18il9","st":{"weeks":3,"sessions":4,"sets":22},"blocks":2}
+PASS Séance déplacée dans le modèle
+PASS Duplication du programme et du programme historique
+PASS Copie du programme historique : modifiable, sans données personnelles de Lucas
+PASS Code : coachId, clientDraftId, programId, startDate, formulaId
+PASS Programme préparé affiché à la vérification
+PASS Compte lié au coach, programme attribué, calendrier généré (4 séances, 1re le 05/11), questionnaire et offres ignorés {"tab":"home","uid":"a-mvmcwdqspo7j","last":"Petit-Durand","coach":"coach","asg":true,"n":4,"first":"2026-11-05","ob":false}
+PASS Accueil : séance du jour issue du programme
+PASS Aucune donnée de Lucas chez le nouveau client
+PASS Échauffement interactif : une ligne par exercice
+PASS Fiche ouverte, lecteur rendu inerte
+PASS Échap ferme la fiche, retour au lecteur
+PASS Chronomètre conservé
+PASS Repos affiché en texte
+   recap {"wu":600,"main":1500,"cd":300,"pause":300,"active":2400,"total":2700}
+PASS Temps actif + pauses = temps total écoulé
+PASS Récapitulatif : temps actif, pauses, total
+PASS Séance adaptée enregistrée, durée = temps actif (40 min) {"dur":40,"rpe":7}
+PASS RPE enregistré
+PASS Suivi › Progrès alimenté
+PASS Validation manuelle : durée obligatoire (aucune durée prévue utilisée)
+PASS « Je ne sais plus » → réalisée, durée à confirmer
+PASS Adaptation sans raison refusée
+PASS Adaptation sans commentaire refusée
+PASS Heures début/fin → 55 min, RPE saisi, adaptation complète
+PASS Coach : programme visible dans la fiche
+PASS Coach : séances, raisons, durées, durée à confirmer
+PASS Personnalisation du client sans modifier le modèle, historisée
+PASS Poids : rien enregistré à l'arrivée, Continuer désactivé
+PASS Poids enregistré seulement après « Confirmer »
+PASS Conversion lb → kg (176,4 lb = 80 kg)
+PASS Valeur hors limites refusée
+PASS Récapitulatif modifiable avant création du compte
+PASS Nouveau client : poids confirmé enregistré, pas de programme
+PASS Client classique visible dans l'espace coach
+   fiche: Mode démonstration. Comptes, rôles et codes sont simulés sur cet appareil.Fiche athlèteInès RouxClientsines@ex.fr · formule : Programme personnalisé (choisie à l'inscription) · aucun programme actif
+  ok
+PASS Attribution par le coach : calendrier généré à partir du 04/11
+PASS Première séance disponible côté client
+PASS Isolation des données entre deux comptes
+ERREURS JS: aucune
+
+37 réussis, 0 échoués
